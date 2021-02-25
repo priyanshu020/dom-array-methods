@@ -15,3 +15,5 @@ This project demonstrates five of the most common array methods:
   * reduce()
   
 ## Deployment
+
+https://array-methods-in-dom.netlify.app/
